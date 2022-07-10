@@ -1,0 +1,10 @@
+.todo-preview .done {
+  font-weight: 100;
+  font-style: italic;
+  text-decoration: line-through;
+}
+
+.todo-preview .tools {
+  width: 8rem;
+  justify-content: space-between;
+}

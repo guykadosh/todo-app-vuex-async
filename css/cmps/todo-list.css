@@ -1,0 +1,12 @@
+.todo-list {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.todo-list ul li {
+  margin-block-end: 0.2rem;
+}
+
+.todo-list .btn-add {
+  margin-block-end: 0.9rem;
+}

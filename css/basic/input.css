@@ -1,0 +1,23 @@
+.input {
+  width: 11.5rem;
+  height: 2rem;
+  padding: 0 1rem;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  outline: none;
+  background-color: #fff;
+  color: #0d0c22;
+  transition: 0.3s ease;
+}
+
+.input::placeholder {
+  color: #9e9ea7;
+}
+
+.input:focus,
+.input:hover {
+  outline: none;
+  border-color: #1098ad86;
+  background-color: #fff;
+  box-shadow: 0 0 0 2px rgba(16, 152, 173, 0.247);
+}
